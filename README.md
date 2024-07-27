@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/correa96cl/nlw_journey_react_native">
-    <img src="image/logo.svg" alt="Logo" width="80" height="80">
+    <img src="image/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">NLW Journey 2024 React Native</h3>
